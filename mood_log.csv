@@ -1,0 +1,18 @@
+Timestamp,User Input,Mood,Intent
+2025-04-16 00:22:42,i am feeling terrible,negative,unknown
+2025-04-16 00:22:51,thanks for being here,positive,gratitude
+2025-04-16 00:27:36,how was my week,neutral,unknown
+2025-04-16 00:43:04,Hi i feel sad,negative,unknown
+2025-04-16 00:43:18,calming tip,positive,calming_tip
+2025-04-16 00:45:32,i feel happy,positive,unknown
+2025-04-16 00:45:46,i feell sad,negative,unknown
+2025-04-16 00:46:02,i feel like quitting,positive,unknown
+2025-04-16 00:46:17,i feel sad,negative,unknown
+2025-04-16 00:51:37,i feel sad,negative,unknown
+2025-04-16 00:51:58,i dont feel good,negative,unknown
+2025-04-16 00:52:24,calming tip,positive,calming_tip
+2025-04-16 00:52:32,,neutral,unknown
+2025-04-16 00:55:56,"Sorry, I didn't catch that.",neutral,unknown
+2025-04-16 00:56:10,I feel sad,negative,unknown
+2025-04-16 00:56:25,I feel anxious,neutral,unknown
+2025-04-16 01:03:16,i feel anxious,negative,unknown
